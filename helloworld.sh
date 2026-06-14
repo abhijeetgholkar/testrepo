@@ -1,3 +1,2 @@
 echo "hello world"
-echo "another commit"
-echo "another commit2"
+echo "another commit
